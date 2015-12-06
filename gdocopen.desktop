@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Google Docs
+Comment=Open Google Docs files in Chrome
+Exec=gdocopen %F
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/gdocs.png
+Categories=Application;Utility
+MimeType=application/vnd.google-apps.document;
+
+# See: https://github.com/lmmx/devnotes/wiki/Custom-application-to-open-.gdoc-extensions

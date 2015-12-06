@@ -1,0 +1,9 @@
+Name=RSSOwl
+Comment=RSSOwl
+Exec=runRSSOwl.sh
+Icon=/opt/rssowl_linux_1_1_3_bin/rssowl.xpm
+Terminal=false
+Type=Application
+Categories=Application;Network;
+
+# see https://github.com/lmmx/devnotes/wiki/RSSOwl-setup

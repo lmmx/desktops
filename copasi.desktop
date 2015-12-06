@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=/home/louis/opt/copasi/bin/CopasiUI
+Icon=/home/louis/opt/copasi/share/copasi/icons/Copasi32-Alpha.xpm
+Type=Application
+Name=COPASI
+GenericName=Biochemical simulation
+NoDisplay=false 
+StartupNotify=true
+Categories=Science;Other
+MimeType=application/x-copasi;
+Version=1.0
+
+# add to .bash_profile:
+# export COPASIDIR=/home/louis/opt/copasi

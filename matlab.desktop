@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=/usr/local/MATLAB/R2013a_Student/bin/matlab -desktop
+Icon=/usr/local/MATLAB/R2013a_Student/X11/icons/matlab64c_icon.xpm
+Type=Application
+Terminal=false
+Comment=Matrix Laboratory
+Name=MATLAB
+GenericName=matlab
+StartupNotify=false
+Categories=Education;IDE;Java;

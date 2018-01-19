@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Firefox
+GenericName=Web Browser
+Icon=~/opt/firefox/browser/icons/mozicon128.png
+Type=Application
+Categories=Application;Network;WebBrowser;
+Exec=~/opt/firefox/firefox
+Terminal=false
+StartupNotify=false

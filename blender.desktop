@@ -1,9 +1,10 @@
 [Desktop Entry]
 Name=Blender
-GenericName=3D modeler
+GenericName=3D Modeller
 Comment=3D modeling, animation, rendering and post-production
 Keywords=3d;cg;modeling;animation;painting;sculpting;texturing;video editing;video tracking;rendering;render engine;cycles;game engine;python;
-Exec=blender %f
+Exec=/home/louis/opt/bin/blender %f
+TryExec=/home/louis/opt/bin/blender
 Icon=blender
 Terminal=false
 Type=Application
